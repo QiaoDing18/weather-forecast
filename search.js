@@ -19,7 +19,7 @@ var showMessageHandle = {
 			dataType : 'jsonp',
 			data : {
 				city : cityName,
-				appkey :  '0cd959d1554aacba'
+				appkey : “***********************”
 			},
 			success : function(data){
 				// console.log(data.result.date);
